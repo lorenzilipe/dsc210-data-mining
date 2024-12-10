@@ -1,6 +1,5 @@
-# Project: Movie Recommender System
+# Project: Data Mining in Recommender Systems
 ### Course: DSC 210: Numerical Linear Algebra
-#### Instructor: Dr. Tsui-wei Weng
 #### Project Members: Joshua Chuang, Joyce Hu, Felipe Lorenzi, Ryan Clement
 
 #### Instructions:
@@ -11,6 +10,7 @@
   - seaborn
 
 * Run `EDA.ipynb` to see eda analysis of MovieLens 1m Dataset
+  - Download ml-1m datasets [here](https://files.grouplens.org/datasets/movielens/ml-1m.zip)
 * Run `SVD_final.ipynb` to run SVD model
 * To run `sota_model_training.ipynb`, import notebook into Kaggle and run using GPU T4 x2 accelerator. Once cells are run, save the trained models `.pth` files that should be under `/kaggle/working/saved`.
   - Notebook trains state of the art models NeuMF and BERT4Rec
