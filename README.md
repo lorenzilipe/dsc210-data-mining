@@ -16,7 +16,7 @@
   - Notebook trains state of the art models NeuMF and BERT4Rec
   - Current runtimes: NeuMF ~30 min, BERT4Rec ~2 hours
   - Our pretrained models can be downloaded [here](https://drive.google.com/drive/folders/1UFe74OeRqQpH730OVVGdybwMyOA_lCPY?usp=sharing)
-* To run `sota_model_results.ipynb`, open notebook in Collab and run using T4 GPU. Upload the trained models `.pth` files.
+* To run `sota_model_results.ipynb`, open notebook in Colab and run using T4 GPU. Upload the trained models `.pth` files.
 
 #### Results:
 |  | SVD | NeuMF | BERT4Rec |
