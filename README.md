@@ -25,5 +25,7 @@
 | Precision@10 | 0.074 | 0.202 | 0.0241 |
 | Recall@10 | 0.026 | 0.164 | 0.241 |
 
+<img src="https://github.com/user-attachments/assets/431008fe-b436-4e0a-ac5d-46ee4e9a9f58" width="500" />
+
 #### Project Report:
 Project report can be found [here]()
