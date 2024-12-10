@@ -30,4 +30,4 @@
 <img src="https://github.com/user-attachments/assets/431008fe-b436-4e0a-ac5d-46ee4e9a9f58" width="800" />
 
 #### Project Report:
-Project report can be found [here]().
+Project report can be found [here](https://github.com/user-attachments/files/18085063/DSC210_Project_Report.pdf).
