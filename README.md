@@ -1,1 +1,20 @@
-# dsc210-data-mining
+# Project: Movie Recommender System
+### Course: DSC 210: Numerical Linear Algebra
+### Instructor: Dr. Tsui-wei Weng
+
+#### Instructions:
+* Ensure that the following libraries are installed in python 3 environment:
+  - surprise
+  - recommenders
+  - matplotlib
+  - seaborn
+
+* Run `EDA.ipynb` to see eda analysis of MovieLens 1m Dataset
+* Run `SVD_final.ipynb` to run SVD model
+* To run `sota_model_training.ipynb`, import notebook into Kaggle and run using GPU T4 x2 accelerator. Once cells are run, save the trained models `.pth` files that should be under `/kaggle/working/saved`.
+- to train state of the art models NeuMF and BERT4Rec
+- current runtimes: NeuMF ~30 min, BERT4Rec ~2 hours
+- our pretrained models to save time can be downloaded [here]: https://drive.google.com/drive/folders/1UFe74OeRqQpH730OVVGdybwMyOA_lCPY?usp=sharing
+* To run `sota_model_results.ipynb`, open notebook in Collab and run using T4 GPU. Upload the trained models `.pth` files.
+
+#### Results:
